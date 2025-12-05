@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "https://mousequetaire.vercel.app/",
+      "permanent": false
+    }
+  ]
+}
